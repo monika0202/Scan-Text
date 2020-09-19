@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "12885894008",
+    "firebase_url": "https://scan-text-531c5.firebaseio.com",
+    "project_id": "scan-text-531c5",
+    "storage_bucket": "scan-text-531c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12885894008:android:fe5e1567dec050927f5e8d",
+        "android_client_info": {
+          "package_name": "com.scan.text.scantext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12885894008-73c0horbrftp5t50kr8a7icrqo0hkm8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARRhgeRL2x356KQicus9Bugp8M_6ZtS_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12885894008-73c0horbrftp5t50kr8a7icrqo0hkm8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
